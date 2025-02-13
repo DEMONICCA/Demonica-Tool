@@ -42,7 +42,7 @@ Pastikan Anda telah menginstal aplikasi [Termux](https://f-droid.org/id/packages
    Buka Termux atau terminal Anda, lalu clone repository:
    ```bash
    git clone https://github.com/DEMONICCA/Demonica-Tool.git
-   cd demonica-tool && bash wongbrebes.sh
+   cd Demonica-Tool && bash wongbrebes.sh
 
 > [![Telegram URL](https://img.shields.io/badge/Telegram-Join-2CA5E?style=social&logo=telegram)](https://t.me/modulkuntul)
 > <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="40">&nbsp;
